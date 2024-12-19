@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 一个做前端的
-- 有一只狗
-- 和两只猫
+- 筑基期修士
+- 灵兽：猫
+- 法宝：无
+- 功法：《React高阶》《Vue高阶》《JavaScript高阶》《Nodejs中阶》
